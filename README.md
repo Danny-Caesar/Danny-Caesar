@@ -1,4 +1,12 @@
+- 🌱 I’m currently learning ...
+
+https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+
+https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Caesar&layout=compact)](https://github.com/Danny-Caesar/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAnny-Caesar&show_icons=true&theme=radical)
 
 <!--
