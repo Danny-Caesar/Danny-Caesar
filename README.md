@@ -1,7 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:34ad7e,100:875003&height=120&text=Danny%20Caeser&animation=&fontColor=ffffff&fontSize=50" />
-    </div>
-    <div style="text-align: left;"> 
+</div>
+<div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 About me... </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 국립부경대학교 재학 중 입니다.</li><li> 임베디드 SW 개발자를 목표로 하고 있습니다. </div> 
     </div>
@@ -25,5 +25,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Danny-Caesar&bg_color=180,00000000,714404&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Caesar&layout=compact&bg_color=180,00000000,714404&title_color=ffffff&text_color=ffffff"
            /> </div> 
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuki4818)](https://solved.ac/kuki4818/)
-    </div>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuki4818)](https://solved.ac/kuki4818)
+</div>
