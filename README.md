@@ -25,6 +25,6 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-Caesar&layout=compact&bg_color=180,00000000,714404&title_color=ffffff&text_color=ffffff"
            /> </div> 
       [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={kuki4818})](https://solved.ac/{kuki4818})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kuki4818)](https://solved.ac/kuki4818)
     </div>
     
