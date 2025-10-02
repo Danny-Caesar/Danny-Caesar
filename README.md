@@ -4,8 +4,8 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 About me... </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-        <li> 국립부경대학교 재학 중 입니다.</li>
-        <li> Embedded SW 개발자를 목표로 하고 있습니다.
+        <li> Embedded SW / SW 검증</li>
+        <li> 국립부경대학교</li>
     </div> 
 </div>
 <div style="text-align: left;">
